@@ -1,0 +1,3 @@
+pdfminer.six
+nltk
+scikit-learn
